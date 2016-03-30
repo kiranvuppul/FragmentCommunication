@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">edu4</string>
+    <string name="action_settings">Settings</string>
+    <array name="colors">
+        <item> Red</item>
+        <item>Black</item>
+        <item> Blue</item>
+        <item>Green</item>
+
+    </array>
+</resources>
